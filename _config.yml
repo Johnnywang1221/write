@@ -1,0 +1,12 @@
+# Site settings
+title: 头老师的博客
+email: 790116273@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  头老师的网络日记
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 头老师的微博
+github_username:  Johnnywang1221
+
+# Build settings
+markdown: kramdown
